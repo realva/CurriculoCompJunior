@@ -1,0 +1,22 @@
+/*Currículo web - CompJunior - PS2016*/
+
+header {
+	color: #000000;
+}
+#sectionSobre {
+  background-color: #8B8C87;
+  color: #FFFFFF;
+}
+#sectionFormacao {
+  background-color: #C3423F;
+}
+#sectionExperiencia {
+  background-color: #404E4D;
+  color: #FFFFFF;
+}
+#sectionContato {
+  background-color: #B4B4B4;
+}
+footer {
+	color: #fff;
+}
